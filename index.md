@@ -11,13 +11,13 @@ Schumann - Träumerei
 <iframe width="720" height="720" src="https://www.youtube.com/embed/fmsBeOfMVtA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Queen - Bohemian Rhapsody
-<iframe width="720" height="720" src="https://www.youtube.com/embed/5QNoaV-zECM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="720" src="https://www.youtube.com/embed/5QNoaV-zECM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 BTS - Dynamite
-<iframe width="720" height="720" src="https://www.youtube.com/embed/ggFyf9zXs0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="720" src="https://www.youtube.com/embed/ggFyf9zXs0U" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Avicii - Waiting for Love
-<iframe width="720" height="720" src="https://www.youtube.com/embed/GDZv7mHOTIQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="720" src="https://www.youtube.com/embed/GDZv7mHOTIQ" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-</style>
+Adele - Hello
+<iframe src="https://drive.google.com/file/d/1fBfmJqrj8tKpJMvEcfyVIXI-JdposTPB/preview" width="720" height="720"></iframe>

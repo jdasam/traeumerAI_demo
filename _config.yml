@@ -1,7 +1,7 @@
-title: Music Word Embedding <br/> to Bridge the Gap between Listening Contexts and Songs
-description: Music and Audio Computing Lab, KAIST
+title: TräumerAI <br/> Dreaming Music with StyleGAN
+description: Dasaem Jeong, Seungheon Doh, and Taegyun Kwon
 
 theme: jekyll-theme-cayman
 
 github:
-  repository_url: https://github.com/Dohppak/MusicWordVec
+  repository_url: https://github.com/jdasam/traeumerAI_demo

@@ -25,3 +25,26 @@ Avicii - Waiting for Love
 
 Adele - Hello
 <iframe src="https://drive.google.com/file/d/1fBfmJqrj8tKpJMvEcfyVIXI-JdposTPB/preview" width="720" height="720"></iframe>
+
+
+
+## With modified smoothing and higher fps
+Luis Fonsi - Despacito 
+<iframe width="720" height="720" src="https://www.youtube.com/embed/3AEcQdbQIow" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+John Williams - Star Wars Main Title 
+<iframe width="720" height="720" src="https://www.youtube.com/embed/er3J7_g8aCE" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Wagner - Ride of Valkyries
+<iframe width="720" height="720" src="https://www.youtube.com/embed/Fu89NI6EnuM" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Queen - Bohemian Rhapsody
+<iframe width="720" height="720" src="https://www.youtube.com/embed/HY0qIOK42Og" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Queen - Bohemian Rhapsody (PhilharmoniX version)
+<iframe width="720" height="720" src="https://www.youtube.com/embed/s0xeWz4sueM" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Schumann - Träumerei
+<iframe width="720" height="720" src="https://www.youtube.com/embed/7SFCge5HGtU" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
